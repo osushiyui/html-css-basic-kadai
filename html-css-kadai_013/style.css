@@ -79,6 +79,7 @@ PC用のスタイル
   }
 
 #nav-sp{
+  display: none;
   background-color:#ce933e;
   position:absolute;
   left:0;
@@ -115,6 +116,11 @@ PC用のスタイル
   text-decoration:underline;
 }
 
+#nav-sp a:hover{
+  color:#ffffff;
+  text-decoration:underline;
+}
+
 #nav-sp a:active{
   color:#ffffff;
 }
@@ -135,9 +141,6 @@ PC用のスタイル
   display:none;
 }
 #menu-sp{
-  display: block;
-}
-#nav-sp{
   display: block;
 }
 
