@@ -681,6 +681,7 @@ footer{
   margin:80px 0 30px 20px;
 }
 
+/* ナビゲーションのリンクの装飾設定 */
 #nav-sp nav a{
   display:block;
   color:#ffffff;
